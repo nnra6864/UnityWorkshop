@@ -13,7 +13,7 @@
 ### Property
 - **Field** with a **getter** and/or a **setter**
 ## Functions/Methods
-### Function/Method
+### Function
 - Set of commands that the computer will execute when the function is called
 - Can define **parameters** and accept **arguments**
 - Can have a return type such as **int**, **string** etc.
